@@ -68,19 +68,20 @@ img {
 }
 
 /* FEATURES */
-.features-icon {
-}
+/* .features-icon {
+} */
 
 .features-title {
   margin-bottom: 16px;
 }
 
 .features-text {
+  font-family: "Times New Roman", Times, serif;
 }
 
 /* TESTIMONIAL */
-.testimonial-section {
-}
+/* .testimonial-section {
+} */
 
 .testimonial-box {
   grid-column: 2 / -1;
